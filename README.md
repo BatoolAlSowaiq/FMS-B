@@ -1,7 +1,7 @@
 # Farm Management System API
 The Farm Management System API provides endpoints for managing farms and employees. It allows you to perform operations such as creating farms, adding employees, updating farm and employee details, searching for farms and employees, and more.
 To visualize the system architecture, the UML diagram below represents the various components and their relationships within the Farm Management System. The diagram illustrates the classes and their associations, providing a clear overview of the system's structure.
-![Farm Management System UML]()
+![Farm Management System UML](https://github.com/BatoolAlSowaiq/FMS-B/blob/main/FMS-B.png)
 
 ## Entities
 The API includes the following entities:
