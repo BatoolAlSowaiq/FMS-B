@@ -52,7 +52,7 @@ The `EmployeeController` provides endpoints for managing employees. It supports 
 # Link
 You may need to change the id in the endpoints.
 - `Project Presentation`: To view the presentation of this project, you can click [here]()
-- `Front-End Repository`: To view the front-end repository of this project, you can click [here]()
+- `Front-End Repository`: To view the front-end repository of this project, you can click [here](https://github.com/BatoolAlSowaiq/FMS-F.git)
 ## Technologies Used
 
 The Farm Management System is built using the following technologies:
