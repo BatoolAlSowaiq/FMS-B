@@ -71,7 +71,7 @@ The Farm Management System is built using the following technologies:
 # Set Up 
 To set up the project, please follow the steps below:
 
-1. Clone the repository using this command `git clone https://github.com/BatoolAlSowaiq/CropRecommendationSystem/tree/main `.
+1. Clone the repository using this command `git clone https://github.com/BatoolAlSowaiq/FMS-B.git `.
 2. Open the project in IntelliJ IDEA:
    - Launch IntelliJ IDEA.
    - Click on "Open" or select "File" > "Open" from the menu.
